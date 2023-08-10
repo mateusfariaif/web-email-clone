@@ -1,0 +1,44 @@
+.gmail-header {
+    height: 60px;
+}
+
+.gmail-aside {
+    width: 60px;
+}
+
+.gmail-search {
+    background-color: #EAF1FB;
+}
+
+.gmail-search input::placeholder {
+    color: gray;
+}
+
+.gmail-remetente {
+    margin-right: 5rem;
+}
+
+.gmail-email-data {
+    display: flex;
+    font-weight: 700;
+    font-size: 12px;
+    margin-left: auto;
+}
+
+.gmail-botoes {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.gmail-avatar {
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 9999px;
+}
+
+.gmail-avatar img {
+    aspect-ratio: 1 / 1;
+    /* object-fit: cover; */
+}
