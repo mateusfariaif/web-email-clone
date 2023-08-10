@@ -14,6 +14,17 @@
     color: gray;
 }
 
+.gmail-write {
+    background-color: #C2E7FF;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.gmail-caixa-entrada {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
 .gmail-remetente {
     margin-right: 5rem;
 }
